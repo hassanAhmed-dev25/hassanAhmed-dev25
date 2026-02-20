@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 About Me
-I’m a motivated Backend Developer focused on building real-world applications using **ASP.NET Core / ASP.NET Core MVC / ASP.NET Core Web APIs**.  
+I’m a motivated Backend Developer focused on building real-world applications using **ASP.NET Core / ASP.NET Core MVC / ASP.NET Core Web API**.  
 I enjoy designing clean architectures, solving problems, and continuously improving my skills through hands-on projects.
 
 ---
